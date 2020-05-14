@@ -2,7 +2,7 @@
 Simple web based AR experience with 3D models and text.
 
 ## Register
-Don't have an API key? Make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
+If you don't have an echoAR API key yet, make sure to register for FREE at [echoAR](https://console.echoar.xyz/#/auth/register).
 
 ## Setup
 * [Add the 3D model](https://docs.echoar.xyz/quickstart/add-a-3d-model) from the [models](https://github.com/echoARxyz/AR.js-echoAR-COVID19/tree/master/models) folder to the console.
