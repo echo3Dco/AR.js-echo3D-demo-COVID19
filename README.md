@@ -13,7 +13,7 @@ Scan your model's QR code with your phone's camera or with a QR reader app and r
 Feel free to adjust the model and the data as you like, just dont forget to re-scan the QR code after you make your changes.
 
 ## Learn more
-Refer to our [documentation](https://docs.echoar.xyz/ar.js/deploy-experience) to learn more about how to use AR.js and echoAR.
+Refer to our [documentation](https://docs.echoar.xyz/ar.js/deploy-experience) to learn more about how to use AR.js with echoAR.
 
 ## Support
 Feel free to reach out at [support@echoAR.xyz](mailto:support@echoAR.xyz) or join our [support channel on Slack](https://join.slack.com/t/echoar/shared_invite/enQtNTg4NjI5NjM3OTc1LWU1M2M2MTNlNTM3NGY1YTUxYmY3ZDNjNTc3YjA5M2QyNGZiOTgzMjVmZWZmZmFjNGJjYTcxZjhhNzk3YjNhNjE). 
