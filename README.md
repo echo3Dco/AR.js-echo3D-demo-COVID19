@@ -1,4 +1,4 @@
-# AR.js-echoAR-COVID19
+# AR.js-echoAR-demo-COVID19
 Simple web based AR experience with 3D models and text.
 
 ## Register
